@@ -1,4 +1,4 @@
-baseURL = 'https://pvalienteverde.github.io/mariolaypedro.github.io/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Boda de Mariola y Pedro'
+title = 'My New Hugo Site'
 theme = 'weddingweb'
