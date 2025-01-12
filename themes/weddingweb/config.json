@@ -1,0 +1,43 @@
+{
+  "baseURL": "https://pvalienteverde.github.io/mariolaypedro.github.io/",
+  "languageCode": "en-us",
+  "title": "La boda de Mariola&Pedro",
+  "show_comments": false,
+  "disableKinds": [
+    "sitemap",
+    "RSS"
+  ],
+  "markup": {
+    "defaultMarkdownHandler": "goldmark",
+    "goldmark": {
+      "extensions": {
+        "definitionList": true,
+        "footnote": true,
+        "linkify": true,
+        "linkifyProtocol": "https",
+        "strikethrough": true,
+        "table": true,
+        "taskList": true,
+        "typographer": true
+      },
+      "parser": {
+        "attribute": {
+          "block": false,
+          "title": true
+        },
+        "autoHeadingID": true,
+        "autoHeadingIDType": "github"
+      },
+      "renderer": {
+        "hardWraps": false,
+        "unsafe": true,
+        "xhtml": false
+      }
+    }
+  },
+  "params": {
+    "background_image_1": "imagenes/a4.jpeg",
+    "background_image_2": "imagenes/a2.png",
+    "background_image_3": "imagenes/a3.png"
+  }
+}
