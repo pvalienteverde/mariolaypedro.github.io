@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/mariolaypedro.github.io/section/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Alojamiento y transporte</title>
+      <link>http://localhost:1313/mariolaypedro.github.io/section/travel-accommodation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mariolaypedro.github.io/section/travel-accommodation/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Por favor, consulta nuestras páginas dedicadas al &lt;a href=&#34;https://pvalienteverde.github.io/mariolaypedro.github.io/accommodation/&#34;&gt;alojamiento y transporte&lt;/a&gt; para obtener consejos.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Código de vestimenta</title>
       <link>http://localhost:1313/mariolaypedro.github.io/section/dress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,13 +41,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mariolaypedro.github.io/section/gifts/</guid>
       <description>&lt;p&gt;Lo único que queremos en nuestro gran día es rodearnos de las personas que más queremos. No necesitamos regalos ni dinero, solo tu presencia y ganas de pasar un rato increíble juntos.&lt;/p&gt;&#xA;&lt;p&gt;Así que, ven con toda la alegría, las ganas de celebrar y disfrutar con nosotros. ¡Lo importante es que estés allí para compartir este momento tan especial!&lt;/p&gt;&#xA;&lt;p&gt;¡Nos vemos en la fiesta! 💃🍾&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Transporte y alojamiento</title>
-      <link>http://localhost:1313/mariolaypedro.github.io/section/travel-accommodation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mariolaypedro.github.io/section/travel-accommodation/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Por favor, consulta nuestras páginas dedicadas a &lt;a href=&#34;https://pvalienteverde.github.io/mariolaypedro.github.io/travel/&#34;&gt;transporte&lt;/a&gt; y &lt;a href=&#34;https://pvalienteverde.github.io/mariolaypedro.github.io/accommodation/&#34;&gt;alojamiento&lt;/a&gt; para obtener consejos.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

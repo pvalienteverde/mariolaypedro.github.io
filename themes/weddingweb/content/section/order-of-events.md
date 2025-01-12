@@ -19,10 +19,10 @@ Será muy cerca del restaurante para que la gente no se disperse: [**Chicago Caf
 
 Solo hay una regla: **bailar y disfrutar al máximo.** 🕺
 
-Para ir recargando las baterias, pediremos un resopón para aquellos que aun tengan hambre.
+Para ir recargando las baterias, pediremos un resopón para aquellos que aún tengan hambre.
 
 ## Hora a vuestra elección - ¡La Fiesta Sigue! 🎉
 
 Cuando el local cierre sus puertas, la fiesta no para.
 
-Nos trasladaremos al centro de Alicante para seguir celebrando en el primer local que nos reciba con los brazos abiertos. ¡El destino está por decidir, pero lo importante es seguir pasándola bien!
+Nos trasladaremos al centro de Alicante para seguir celebrando en el primer local que nos reciba con los brazos abiertos. ¡El destino está por decidir, pero lo importante es seguir pasándolo bien!

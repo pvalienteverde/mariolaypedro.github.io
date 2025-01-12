@@ -6,6 +6,8 @@
   </url><url>
     <loc>http://localhost:1313/mariolaypedro.github.io/sunday/</loc>
   </url><url>
+    <loc>http://localhost:1313/mariolaypedro.github.io/section/travel-accommodation/</loc>
+  </url><url>
     <loc>http://localhost:1313/mariolaypedro.github.io/accommodation/</loc>
   </url><url>
     <loc>http://localhost:1313/mariolaypedro.github.io/categories/</loc>
@@ -25,7 +27,5 @@
     <loc>http://localhost:1313/mariolaypedro.github.io/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/mariolaypedro.github.io/travel/</loc>
-  </url><url>
-    <loc>http://localhost:1313/mariolaypedro.github.io/section/travel-accommodation/</loc>
   </url>
 </urlset>
