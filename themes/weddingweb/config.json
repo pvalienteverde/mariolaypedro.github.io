@@ -38,6 +38,7 @@
   "params": {
     "background_image_1": "imagenes/a4.jpeg",
     "background_image_2": "imagenes/a2.png",
-    "background_image_3": "imagenes/a3.png"
+    "background_image_3": "imagenes/a3.png",
+    "background_image_4": "imagenes/a5bn.jpeg"
   }
 }
