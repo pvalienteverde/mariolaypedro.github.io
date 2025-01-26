@@ -36,9 +36,9 @@
     }
   },
   "params": {
-    "background_image_1": "imagenes/a4.jpeg",
-    "background_image_2": "imagenes/a2.png",
+    "background_image_1": "image/principalbn.jpg",
+    "background_image_2": "image/a4.jpeg",
     "background_image_3": "imagenes/a3.png",
-    "background_image_4": "imagenes/a5bn.jpeg"
+    "background_image_4": "image/paraguasbn.jpeg"
   }
 }
